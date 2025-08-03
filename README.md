@@ -1,4 +1,4 @@
-# codsoft_tasks
+# codsoft_taskno.1
 📝 To-Do List Application (Python Console)
 📌 Task 1 – To-Do List Manager
 This is a simple console-based To-Do List application built using Python. It allows users to add, view, update, and delete tasks from a list. It's a beginner-friendly project to practice core Python concepts like lists, loops, functions, and user input handling.
